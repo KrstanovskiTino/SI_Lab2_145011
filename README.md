@@ -13,14 +13,15 @@ E - број на ребра = 20<br/>
 Цикломатската комплексност ќе биде 7.
 
 ### Тест случаи според критериумот Every branch 
-Со Every Branch критериумот треба да ги поминеме сите можни услови во графот. 
-Тест примери: 6
+Со Every Branch критериумот треба да ги поминеме сите можни услови во графот.<br/>
+Тест примери: 6<br/>
 20 degrees 55 minutes 40 seconds (A-B, B-C, C-F, F-G, G-P, P-B)<br/>
 360 degrees 0 minutes 0 seconds (A-B, B-C, C-J, J-K, K-L, L-N, N-P, P-B)<br/>
 360 degrees 0 minutes 20 seconds (A-B, B-C, C-J, J-K, K-M, M-N, N-P, P-B)<br/>
 420 degrees 15 minutes 15 seconds (A-B, B-C, C-O, O-P, P-B)<br/>
 70 degrees 62 minutes 20 seconds (A-B, B-C, C-D, D-G, G-P, P-B)<br/>
 92 degrees 40 minutes -8 seconds (A-B, B-C, C-E, E-G, G-P, P-Q)<br/>
+Со овие 6 примери ќе бидат изминати сите можни гранки од графот:<br/>
 A-B;
 B-C;
 C-D;
