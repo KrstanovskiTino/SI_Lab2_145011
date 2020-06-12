@@ -4,7 +4,7 @@
 Група 6
 
 ### Control Flow Graph 
-
+![CFG Diagram (1)](https://user-images.githubusercontent.com/37616613/84551486-1adc1600-ad0e-11ea-825c-07eb1fb3bb25.png)
 ### Цикломатска комплексност 
 Цикломатската комплексност на овој код може да ја пресметаме со формулата: Е-N+2 <br/>
 N - број на темиња = 15<br/>
